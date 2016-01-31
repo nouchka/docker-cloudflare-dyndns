@@ -1,0 +1,6 @@
+dyndns:
+  image: nouchka/cloudflare-dyndns
+  environment:
+    - CF_EMAIL=docker@katagena.com
+    - CF_HOST=wwww.katagena.com
+    - CF_API=ggt
