@@ -7,6 +7,11 @@ fi
 
 ZONE=${CF_HOST#*.}
 
+if [ ! "$CF_API" ]; then
+	echo no API key
+	exit 0
+fi
+
 sed -i \
     -e "s/auth_email=.*/auth_email=\"$CF_EMAIL\"/g" \
     -e "s/auth_key=.*/auth_key=\"$CF_API\"/g" \
