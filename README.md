@@ -9,7 +9,7 @@
 
 Version follows cloudlfare api version
 
-* 4.0
+* 4.0 (latest) (based on master branch)
 
 # Image
 The image is based on the script https://gist.github.com/rasmusbe/fc2e270095f1a3b41348. The script use curl to update cloudflare record using api v.4
@@ -34,3 +34,8 @@ Environment variables:
 	CF_EMAIL=docker@katagena.com
 	CF_HOST=wwww.katagena.com
 	CF_API=c2547eb745079dac9320b638f5e225cf483cc5cfdda41
+
+# Todo
+
+* Add testing key to test true api call on test
+* Migrate docker-compose file format to version 2
