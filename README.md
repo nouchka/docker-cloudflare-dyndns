@@ -3,7 +3,7 @@
 [![Docker Hub repository](http://dockeri.co/image/nouchka/cloudflare-dyndns)](https://registry.hub.docker.com/u/nouchka/cloudflare-dyndns/)
 
 [![](https://images.microbadger.com/badges/version/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own version badge on microbadger.com")
-
+[![Build Status](https://travis-ci.org/nouchka/docker-cloudflare-dyndns.svg?branch=master)](https://travis-ci.org/nouchka/docker-cloudflare-dyndns)
 
 # Versions
 
