@@ -1,0 +1,8 @@
+dyndns:
+  build: .
+  ## no test credentials for the moment
+  entrypoint: curl -X GET "https://api.cloudflare.com/client/v4/ips"
+  environment:
+    - CF_EMAIL=docker@katagena.com
+    - CF_HOST=wwww.katagena.com
+    - CF_API=dd
