@@ -1,4 +1,4 @@
-dyndns:
+sut:
   build: .
   ## no test credentials for the moment
   entrypoint: curl -X GET "https://api.cloudflare.com/client/v4/ips"
