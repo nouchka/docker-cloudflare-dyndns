@@ -4,6 +4,13 @@
 
 [![](https://images.microbadger.com/badges/version/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own version badge on microbadger.com")
 
+
+# Versions
+
+Version follows cloudlfare api version
+
+* 4.0
+
 # Image
 The image is based on the script https://gist.github.com/rasmusbe/fc2e270095f1a3b41348. The script use curl to update cloudflare record using api v.4
 
