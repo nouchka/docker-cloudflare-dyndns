@@ -2,7 +2,7 @@
 
 [![Docker Hub repository](http://dockeri.co/image/nouchka/cloudflare-dyndns)](https://registry.hub.docker.com/u/nouchka/cloudflare-dyndns/)
 
-[![](https://images.microbadger.com/badges/image/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/phpmyadmin/phpmyadmin "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own version badge on microbadger.com")
 [![Docker Automated buil](https://img.shields.io/docker/automated/nouchka/cloudflare-dyndns.svg)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
 [![Build Status](https://travis-ci.org/nouchka/docker-cloudflare-dyndns.svg?branch=master)](https://travis-ci.org/nouchka/docker-cloudflare-dyndns)
