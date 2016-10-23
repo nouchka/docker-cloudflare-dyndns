@@ -15,7 +15,7 @@
 
 Version follows cloudlfare api version
 
-* 4.0 (latest) (based on master branch)
+* 4.0 (latest) (based on 4.0 branch)
 
 # Image
 The image is based on the script https://gist.github.com/rasmusbe/fc2e270095f1a3b41348. The script use curl to update cloudflare record using api v.4
