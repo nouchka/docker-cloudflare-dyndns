@@ -3,10 +3,10 @@ MAINTAINER Jean-Avit Promis "docker@katagena.com"
 LABEL org.label-schema.vcs-url="https://github.com/nouchka/docker-cloudflare-dyndns"
 LABEL version="4.0"
 
-ENV DEBIAN_FRONTEND noninteractive
-ENV CF_EMAIL docker@katagena.com
-ENV CF_HOST wwww.katagena.com
-ENV CF_API ggt
+ENV DEBIAN_FRONTEND=noninteractive \
+	CF_EMAIL=docker@katagena.com \
+	CF_HOST=wwww.katagena.com \
+	CF_API=ggt
 
 ARG CLOUDFLARE_FILE_MD5SUM=fdf6ff03cd9f75159be6b2e2649329a54bab680f
 
