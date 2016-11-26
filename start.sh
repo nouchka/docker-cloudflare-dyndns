@@ -1,11 +1,5 @@
 #!/bin/bash
 
-if ! openssl sha1 /cloudflare-update-record.sh| grep $CLOUDFLARE_FILE_SHA >> /dev/null 2>&1; then
-	echo "wrong SHA"
-	openssl sha1 /cloudflare-update-record.sh
-	exit 1
-fi
-
 ZONE=${CF_HOST#*.}
 
 if [ ! "$CF_API" ]; then

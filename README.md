@@ -20,7 +20,7 @@ Version follows cloudlfare api version
 # Image
 The image is based on the script https://gist.github.com/rasmusbe/fc2e270095f1a3b41348. The script use curl to update cloudflare record using api v.4
 
-The entrypoint of the image checks the sha of the script and update the parameters of the api based on docker env
+The entrypoint updates the parameters of the api based on docker env
 
 Use same environment variable names as https://github.com/msh100/Docker-Images/tree/master/cloudflare-dyndns
 
