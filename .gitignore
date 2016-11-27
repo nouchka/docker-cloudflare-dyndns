@@ -1,2 +1,3 @@
 cloudflare-update-record.sh
 .project
+/.env

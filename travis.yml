@@ -1,0 +1,17 @@
+###
+##cp env.template .env
+###Put true value from cloudflare
+##vim .env
+##docker-compose -f travis.yml up -d
+##docker exec -it travis-ci /bin/sh
+##gem install travis
+##travis login --github-token XXXXXXXXXXXXXXXXXX
+##travis encrypt-file .env --add
+##chown 1000:1000 .env.enc
+
+travis:
+  image: andredumas/travis-ci-cli
+  container_name: "travis-ci"
+  entrypoint: sleep 600
+  volumes:
+   - .:/repo

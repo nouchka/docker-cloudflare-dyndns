@@ -2,7 +2,6 @@ sut:
   build: .
   ## no test credentials for the moment, just check sha and CF_API
   environment:
-    - CF_EMAIL=docker@katagena.com
-    - CF_HOST=wwww.katagena.com
-    - CF_API=dd
-    - TESTING=1
+    - CF_EMAIL=${CF_EMAIL}
+    - CF_HOST=${CF_HOST}
+    - CF_API=${CF_API}
