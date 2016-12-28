@@ -45,6 +45,7 @@ Environment variables:
 
 * Add testing key to test true api call on test
 * Migrate docker-compose file format to version 2
+* Use ddclient
 
 # Donate
 
