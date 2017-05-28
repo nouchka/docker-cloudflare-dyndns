@@ -6,10 +6,6 @@
 [![](https://images.microbadger.com/badges/version/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own version badge on microbadger.com")
 [![Docker Automated buil](https://img.shields.io/docker/automated/nouchka/cloudflare-dyndns.svg)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
 [![Build Status](https://travis-ci.org/nouchka/docker-cloudflare-dyndns.svg?branch=master)](https://travis-ci.org/nouchka/docker-cloudflare-dyndns)
-<!---
-[![Docker Stars](https://img.shields.io/docker/stars/nouchka/docker-cloudflare-dyndns.svg)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/nouchka/docker-cloudflare-dyndns.svg)]()
---->
 
 # Versions
 
