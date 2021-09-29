@@ -1,11 +1,10 @@
 # docker-cloudflare-dyndns
+[![Docker pull](https://img.shields.io/docker/pulls/nouchka/cloudflare-dyndns)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
+[![Docker stars](https://img.shields.io/docker/stars/nouchka/cloudflare-dyndns)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
+[![Build Status](https://gitlab.com/japromis/docker-cloudflare-dyndns/badges/master/pipeline.svg)](https://gitlab.com/japromis/docker-cloudflare-dyndns/pipelines)
+[![Docker size](https://img.shields.io/docker/image-size/nouchka/cloudflare-dyndns/latest)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
 
-[![Docker Hub repository](http://dockeri.co/image/nouchka/cloudflare-dyndns)](https://registry.hub.docker.com/u/nouchka/cloudflare-dyndns/)
 
-[![](https://images.microbadger.com/badges/image/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/nouchka/cloudflare-dyndns.svg)](https://microbadger.com/images/nouchka/cloudflare-dyndns "Get your own version badge on microbadger.com")
-[![Docker Automated buil](https://img.shields.io/docker/automated/nouchka/cloudflare-dyndns.svg)](https://hub.docker.com/r/nouchka/cloudflare-dyndns/)
-[![Build Status](https://travis-ci.org/nouchka/docker-cloudflare-dyndns.svg?branch=master)](https://travis-ci.org/nouchka/docker-cloudflare-dyndns)
 
 # Versions
 
